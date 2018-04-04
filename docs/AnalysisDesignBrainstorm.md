@@ -25,3 +25,14 @@ So that the password database (key/value pairs) can be cloned from nominator to 
 </li>
 <li>The contract can be programmed to set access rules for the password entries - i.e certain passwords can only be retrieved by certain people.
 </ol>
+<b>4-Apr-2018</b>
+<ol>
+<li>Trial and Error:
+  <ol>
+<li>Setup the first node on a PC which connects to private chain
+<li>Create multiple account under the node.
+<li>Setup another node on another PC and connect to the private chain - make sure that the second node synchronizes all accounts from the first node. 
+  </ol>
+</li>
+</ol>  
+ 
