@@ -1,4 +1,4 @@
-<h1>Analysis and Design Brainstorming Nodes</h1>
+<h1>Analysis and Design Brainstorming Notes</h1>
 <bR><br>
 <b>27-Mar-2018:</b>
 <ol>
