@@ -37,6 +37,6 @@ So that the password database (key/value pairs) can be cloned from nominator to 
 </ol>  
 <b>20-Apr-2018</b>
  <bR><BR>
-Architecture Diagram
+1.) Architecture Diagram
 <bR><BR>   
 <img border="0" src="https://github.com/brandonteohno1/EtherPassBook/blob/master/docs/EtherPassBook-AD-20Apr2018.png"/>  
