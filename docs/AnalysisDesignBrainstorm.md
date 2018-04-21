@@ -42,7 +42,8 @@ So that the password database (key/value pairs) can be cloned from nominator to 
 <img border="0" src="https://github.com/brandonteohno1/EtherPassBook/blob/master/docs/EtherPassBook-AD-20Apr2018.png"/>  
 <BR>
   <b>21-Apr-2018</b>
-  <br><BR>
-1.) A node should be able to host multiple private chain in order to segregate data in terms of different application domains - different projects.
-2.) Under NEM blockchain, this is made possible by the feature known as namespace.
-  
+  <br>
+  <ol>
+<li>A node should be able to host multiple private chain in order to segregate data in terms of different application domains - different projects.
+<li>Under NEM blockchain, this is made possible by the feature known as namespace.
+  </ol> 
